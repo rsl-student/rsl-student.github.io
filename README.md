@@ -44,8 +44,6 @@ Alongside my interests in  software engineering some of my other interests and h
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
