@@ -1,15 +1,15 @@
 # Site
-repository: <a href=rsl-student.github.io/>
+repository: <a href=rsl-student.github.io>https://github.com/rsl-student/rsl-student.github.io</a>
 
 # Personal info
-Name: Ronald Looi
-Current position: Final year student t the University of Pretoria
-email: u15226532@tuks.co.za 
-Website: <a href=https://rsl-student.github.io/>
+- Name: Ronald Looi
+- Current position: Final year student t the University of Pretoria
+- email: u15226532@tuks.co.za 
+- Website: <a href=https://rsl-student.github.io>rsl-student.github.io</a>
 
 # Social links
-- github:  <a href=https://github.com/rsl-student/>
-- linkedin: <a href=https://www.linkedin.com/in/ronald-looi-297737163/>
+- github:  <a href=https://github.com/rsl-student>rsl-student</a>
+- linkedin: <a href=https://www.linkedin.com/in/ronald-looi-297737163>ronald-looi</a>
 
 # About Me
 about_content: 
